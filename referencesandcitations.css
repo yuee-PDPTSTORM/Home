@@ -1,0 +1,53 @@
+body
+{	
+	background-image: url(Images/Desert.jpg);
+	background-size: 1540px 1020px;
+	background-color: rgba(0,0,0,0.5);
+	background-attachment: fixed;
+}
+
+.navbar
+{
+	background-color: cornflowerblue;
+	border: 5px solid blue;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	text-align: center;
+	font-size: 12pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin: 0 auto;
+}
+
+h1
+{
+	color: lime;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 45pt;
+	text-align: center;
+	text-decoration: bold;
+	text-decoration: underline;
+}
+
+p 
+{
+	color: yellow;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 21pt;
+	text-align: justify;
+	text-decoration: bold;
+}
+
+.content
+{
+	background-color: brown;
+	border: 25px solid orangered;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left : 100px;
+	margin-right : 100px;
+	margin: 0 auto;	
+}

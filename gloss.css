@@ -1,0 +1,107 @@
+body
+{	
+	background-image: url(Images/CarbonFibre.jpg);
+	background-size: 690px 960px;
+	background-color: rgba(0,0,0,0.5);
+	background-attachment: fixed;
+}
+
+.navbar
+{
+	background-color: lavender;
+	border: 5px solid fuchsia;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	text-align: center;
+	font-size: 12pt;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin: 0 auto;
+}
+
+.content
+{
+	background-color: purple;
+	border: 25px solid violet;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left : 100px;
+	margin-right : 100px;	
+}
+
+img[src="images/PERIODICTABLE.jpg"]
+{
+	border-color: lavender;
+	border-width: 25px;
+	margin: 0 auto;
+	text-align: center;
+	 
+}
+
+img[src="images/RadioactiveSymbol.jpg"]
+{
+	border-color: lavender;
+	border-width: 25px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.box
+{
+	background-color: lavender;
+	border: 5px lavender;
+	padding: 5px;
+	border-width: 10 px;
+	padding-left: 5px;
+	padding-right: 5px;
+	word-wrap: break;
+	margin: 0 auto;
+}
+
+
+h1
+{
+	color: white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 45pt;
+	text-align: center;
+	text-decoration: bold;
+	text-decoration: underline; 
+}
+
+h2
+{
+	color: black;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 38pt;
+	text-align: justify;
+}
+
+h3
+{
+	color: cornflowerblue;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 21pt;
+	text-align: justify; 
+	text-decoration: underline;
+}
+
+p 
+{
+	color: lime;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 17pt;
+	text-align: justify;
+}
+
+li
+{
+	color: lime;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 17pt;
+	text-align: justify;
+}
+
